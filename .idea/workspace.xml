@@ -9,23 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/address.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/address.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/flexslider.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/flexslider.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mygrxx.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mygrxx.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mygxin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mygxin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/myorderlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myorderlist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/myprod.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myprod.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/ok.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/order.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/order.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/orderxq.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/orderxq.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/productlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/productlist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/productview.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/productview.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/searchproductlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/searchproductlist.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -656,7 +640,7 @@
       <workItem from="1602909553199" duration="15692000" />
       <workItem from="1688471548754" duration="6155000" />
       <workItem from="1688477892093" duration="1670000" />
-      <workItem from="1688479610558" duration="1761000" />
+      <workItem from="1688479610558" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="HOMEECMS仓库">
       <created>1592235336310</created>
@@ -861,7 +845,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688480683817</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="version 1.0">
+      <created>1688481675118</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1688481675118</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

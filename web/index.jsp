@@ -26,10 +26,10 @@
     <div id="home_slider" class="flexslider slide">
         <ul class="slides">
             <li>
-                <div class="slide"><img src="img/banner2.jpg"/></div>
+                <div class="slide"><img style="height: 525px" src="img/banner2.jpg"/></div>
             </li>
             <li>
-                <div class="slide"><img src="img/banner1.jpg"/></div>
+                <div class="slide"><img style="height: 525px" src="img/banner1.jpg"/></div>
             </li>
         </ul>
     </div>
