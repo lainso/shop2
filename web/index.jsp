@@ -38,7 +38,7 @@
 <!------------------------------news------------------------------>
 <div class="news">
     <div class="wrapper">
-        <h2><img src="img/ih2.jpg"/></h2>
+        <h2 style="text-align: center">---------- 好物上新 | 心动优选 ----------</h2><br>
         <div class="flower clearfix tran">
             <c:forEach var="p" items="${newProductList}">
                 <a href="toProductViewServlet?id=${p.product_id}" class="clearfix">
@@ -98,7 +98,7 @@
             </div>
             <div class="clearfix"><a href="#2" class="fl"><img src="img/foot3.png"/></a><span class="fl">全场包邮</span>
             </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot4.png"/></a><span class="fl">手机特色服务</span>
+            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot4.png"/></a><span class="fl">高品质售后服务</span>
             </div>
         </div>
     </div>

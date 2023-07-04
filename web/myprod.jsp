@@ -178,7 +178,7 @@
             </div>
             <div class="clearfix"><a href="#2" class="fl"><img src="img/foot3.png"/></a><span class="fl">全场包邮</span>
             </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot4.png"/></a><span class="fl">手机特色服务</span>
+            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot4.png"/></a><span class="fl">高品质售后服务</span>
             </div>
         </div>
     </div>
