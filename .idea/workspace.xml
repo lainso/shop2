@@ -10,17 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.0">
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/address.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/address.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/mygrxx.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/mygrxx.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/mygxin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/mygxin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/myorderlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/myorderlist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/myprod.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/myprod.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/ok.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/order.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/order.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/orderxq.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/orderxq.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/img/smewm.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/img/smewm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/css/public.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/img/smewm.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shop_war_exploded/img/smewm.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/public.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -651,7 +645,7 @@
       <workItem from="1595737708527" duration="502000" />
       <workItem from="1602909553199" duration="15692000" />
       <workItem from="1688471548754" duration="6155000" />
-      <workItem from="1688477892093" duration="1000000" />
+      <workItem from="1688477892093" duration="1670000" />
     </task>
     <task id="LOCAL-00001" summary="HOMEECMS仓库">
       <created>1592235336310</created>
@@ -835,7 +829,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688478515057</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="version 1.0">
+      <created>1688479074625</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1688479074625</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
