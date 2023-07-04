@@ -102,16 +102,14 @@ div#top {
 
 /*********************head********************/
 .head {
-    background-color: #97978d;
-    padding-top: 30px;
+    margin-top: 30px;
     min-width: 1160px;
     position: relative;
     border-bottom: 1px solid #e0e0e0;
 }
 
 .head h1 img {
-    width: 80%;
-    height: 20%;
+    height: 55px;
     display: block;
 }
 
@@ -163,7 +161,7 @@ div#top {
 
 .head ul {
     float: left;
-    margin-left: 18%;
+    margin-left: 30%;
     line-height: 50px;
 }
 
