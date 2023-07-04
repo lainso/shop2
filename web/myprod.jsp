@@ -176,7 +176,7 @@
             </div>
             <div class="clearfix"><a href="#2" class="fl"><img src="img/foot2.png"/></a><span class="fl">15天免费换货</span>
             </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot3.png"/></a><span class="fl">满599包邮</span>
+            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot3.png"/></a><span class="fl">全场包邮</span>
             </div>
             <div class="clearfix"><a href="#2" class="fl"><img src="img/foot4.png"/></a><span class="fl">手机特色服务</span>
             </div>
