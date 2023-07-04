@@ -23,7 +23,7 @@
 <%--            		<a href="admin_index.jsp" id="login1">进入后台</a>--%>
 <%--            	</c:if>--%>
             </p>
-                <form action="searchProductServlet" method="post" class="fl"><input required type="text" name="key" placeholder="热门搜索：干花"/><input
+                <form action="searchProductServlet" method="post" class="fl"><input required type="text" name="key" placeholder="热门搜索：康师傅"/><input
                         type="submit" value=""/></form>
                 <div class="btn fl clearfix"><a href="toUserInfoServlet"><img src="img/grzx.png"/></a><a href="#" class="er1"><img
                         src="img/ewm.png"/></a>
