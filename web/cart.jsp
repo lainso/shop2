@@ -103,7 +103,7 @@
             }
 
         });
-        location.href="orderselect?eids="+str;
+        location.href="ToOrderServlet?eids="+str;
     }
 </script>
 <div class="mask"></div>
