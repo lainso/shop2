@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-   <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+         pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head lang="en">
     <meta charset="utf-8"/>
@@ -13,9 +13,10 @@
 <div class="head ding">
     <div class="wrapper clearfix">
         <div class="clearfix" id="top"><h1 class="fl"><a href="indexServlet"><img src="img/logo.png"/></a></h1>
-            <div class="fr clearfix" id="top1"><p class="fl">
+            <div class="fr clearfix" id="top1"><p class="fl"><a href="login.html" id="login">登录</a><a href="reg.html"
+                                                                                                        id="reg">注册</a>
             </p>
-                <form action="searchProductServlet" method="post" class="fl"><input required type="text" name="key" placeholder="                                                           热门搜索：康师傅"/><input
+                <form action="searchProductServlet" method="post" class="fl"><input required type="text" name="key" placeholder="热门搜索：干花"/><input
                         type="submit" value=""/></form>
                 <div class="btn fl clearfix"><a href="mygxin.html"><img src="img/grzx.png"/></a><a href="#" class="er1"><img
                         src="img/ewm.png"/></a><a href="cart.html"><img src="img/gwc.png"/></a>
@@ -44,8 +45,8 @@
     <!--<div class="logo"><h1 class="wrapper clearfix"><a href="index.html"><img class="fl" src="images/temp/logo.png"></a><img class="top" src="images/temp/cartTop01.png"></h1></div>-->
     <!-----------------site------------------->
     <div class="site"><p class=" wrapper clearfix"><span class="fl">购物车</span><img class="top"
-                                                                                   src="images/temp/cartTop01.png"><a
-            href="indexServlet" class="fr">继续购物&gt;</a></p></div><!-----------------table------------------->
+                                                                                      src="images/temp/cartTop01.png"><a
+            href="indexServlet" class="fr" style="width: auto">继续购物&gt;</a></p></div><!-----------------table------------------->
     <div class="table wrapper">
         <div class="tr">
             <div>商品</div>
@@ -55,56 +56,56 @@
             <div>操作</div>
         </div>
 
-       <c:forEach var="rs" items="${cartList}">
-        <div class="th">
-            <div class="pro clearfix"><label class="fl">
-            	<input name="ck" type="checkbox" value="${rs.cart_id}"/>
-            	
-            	<span></span></label>
-            	<a class="fl" href="toProductViewServlet?id=${rs.product_id}" target="_blank">
-                <dl class="clearfix">
-                    <dt class="fl"><img width="120" height="120" src="${pageContext.request.contextPath}/upload/product/${rs.product_photo}"></dt>
-                    <dd class="fl"><p>${rs.product_name}</p>
-                        <p>家居分类</p>
-                        <p>xxx</p></dd>
-                </dl>
-            </a></div>
-            <div class="price">￥${rs.product_price }.00</div>
-            <div class="number">
-            	<p class="num clearfix">
-            	<img class="fl sub" src="images/temp/sub.jpg">
-            	<span datasrc="${rs.cart_id }" class="fl">${rs.product_quantity }</span>
-            	<img class="fl add" src="images/temp/add.jpg"></p>
-           </div>
-            <div class="price sAll">￥${rs.product_price * rs.product_quantity }.00</div>
-            <div class="price"><a class="del" datasrc="${rs.cart_id }" href="#2">删除</a></div>
-        </div>
-       
-       </c:forEach>
-       
-        
+        <c:forEach var="rs" items="${cartList}">
+            <div class="th">
+                <div class="pro clearfix"><label class="fl">
+                    <input name="ck" type="checkbox" value="${rs.cart_id}"/>
+
+                    <span></span></label>
+                    <a class="fl" href="toProductViewServlet?id=${rs.product_id}" target="_blank">
+                        <dl class="clearfix">
+                            <dt class="fl"><img width="120" height="120" src="${pageContext.request.contextPath}/upload/product/${rs.product_photo}"></dt>
+                            <dd class="fl"><p>${rs.product_name}</p>
+                                <p>家居分类</p>
+                                <p>xxx</p></dd>
+                        </dl>
+                    </a></div>
+                <div class="price">￥${rs.product_price }.00</div>
+                <div class="number">
+                    <p class="num clearfix">
+                        <img class="fl sub" src="images/temp/sub.jpg">
+                        <span datasrc="${rs.cart_id }" class="fl">${rs.product_quantity }</span>
+                        <img class="fl add" src="images/temp/add.jpg"></p>
+                </div>
+                <div class="price sAll">￥${rs.product_price * rs.product_quantity }.00</div>
+                <div class="price"><a class="del" datasrc="${rs.cart_id }" href="#2">删除</a></div>
+            </div>
+
+        </c:forEach>
+
+
         <div class="goOn">空空如也~<a href="indexServlet">去逛逛</a></div>
         <div class="tr clearfix"><label class="fl"><input class="checkAll" type="checkbox"/><span></span></label>
             <p class="fl"><a href="#">全选</a><a href="#" class="del">删除</a></p>
-            <p class="fr"><span>共<small id="sl">0</small>件商品</span><span>合计:&nbsp;<small id="all">￥0.00</small></span><a
+            <p class="fr" style="width: auto"><span>共<small id="sl">0</small>件商品</span><span>合计:&nbsp;<small id="all">￥0.00</small></span><a
                     href="javascript:toorder()" class="count">结算</a></p></div>
     </div>
 </div>
 
 <script>
-	function toorder() {
-			var str = "";
-			
-			$("input[name='ck']:checked").each(function(index, item){
-				if($("input[name='ck']:checked").length-1 == index){
-					str+= $(this).val();
-				}else{
-					str+= $(this).val()+",";
-				}
-				
-			});
-			location.href="orderselect?eids="+str;
-	}
+    function toorder() {
+        var str = "";
+
+        $("input[name='ck']:checked").each(function(index, item){
+            if($("input[name='ck']:checked").length-1 == index){
+                str+= $(this).val();
+            }else{
+                str+= $(this).val()+",";
+            }
+
+        });
+        location.href="orderselect?eids="+str;
+    }
 </script>
 <div class="mask"></div>
 <div class="tipDel"><p>确定要删除该商品吗？</p>
@@ -127,28 +128,16 @@
 </a>
     <p>888-888-8888</p></div><!--footer-->
 <div class="footer">
-    <div class="top">
-        <div class="wrapper">
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot1.png"/></a><span class="fl">7天无理由退货</span>
-            </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot2.png"/></a><span class="fl">15天免费换货</span>
-            </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot3.png"/></a><span class="fl">全场包邮</span>
-            </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot4.png"/></a><span class="fl">高品质售后服务</span>
-            </div>
-        </div>
-    </div>
+    <br><br>
     <p class="dibu">电子商城&copy;2023-2024版权所有 信管201<br/>
-        04林沛彪 05丘展鹏 06周俊龙 12 凌业勤</p></div>
-<!----------------mask------------------->
+        04林沛彪 05丘展鹏 06周俊龙 12 凌业勤</p></div><!----------------mask------------------->
 <div class="mask"></div><!-------------------mask内容------------------->
 <div class="proDets"><img class="off" src="images/temp/off.jpg"/>
     <div class="proCon clearfix">
         <div class="proImg fr"><img class="list" src="images/temp/proDet.jpg"/>
             <div class="smallImg clearfix"><img src="images/temp/proDet01.jpg" data-src="images/temp/proDet01_big.jpg"><img
                     src="images/temp/proDet02.jpg" data-src="images/temp/proDet02_big.jpg"><img src="images/temp/proDet03.jpg"
-                                                                                          data-src="images/temp/proDet03_big.jpg"><img
+                                                                                                data-src="images/temp/proDet03_big.jpg"><img
                     src="images/temp/proDet04.jpg" data-src="images/temp/proDet04_big.jpg"></div>
         </div>
         <div class="fl">

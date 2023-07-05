@@ -45,18 +45,7 @@
     <p class="ok">支付成功！剩余<span>5</span>秒<a href="toMyOrderListServlet">返回订单页</a></p></div>
 <!--footer-->
 <div class="footer">
-    <div class="top">
-        <div class="wrapper">
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot1.png"/></a><span class="fl">7天无理由退货</span>
-            </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot2.png"/></a><span class="fl">15天免费换货</span>
-            </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot3.png"/></a><span class="fl">全场包邮</span>
-            </div>
-            <div class="clearfix"><a href="#2" class="fl"><img src="img/foot4.png"/></a><span class="fl">高品质售后服务</span>
-            </div>
-        </div>
-    </div>
+
     <p class="dibu">电子商城&copy;2023-2024版权所有 信管201<br/>
         04林沛彪 05丘展鹏 06周俊龙 12 凌业勤</p></div>
 <script src="js/jquery-1.12.4.min.js" type="text/javascript" charset="utf-8"></script>
