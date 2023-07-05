@@ -248,6 +248,7 @@ div#top {
     z-index: 3;
     background: #fff;
     width: 100%;
+    margin-left: 15%;
 }
 
 .head div.sList2 div {

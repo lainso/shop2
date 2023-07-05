@@ -27,7 +27,7 @@
             </form>
         </div>
     </div>
-    <p class="admin_copyright"><a tabindex="5" href="${pageContext.request.contextPath}/indexServlet" target="_blank">家居电子首页</a> &copy; 2020</p>
+    <p class="admin_copyright"><a tabindex="5" href="${pageContext.request.contextPath}/indexServlet" target="_blank">网络商城首页</a> &copy; 2020</p>
 </div>
 </body>
 </html>

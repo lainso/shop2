@@ -3,7 +3,7 @@
 <html>
 <head lang="en">
     <meta charset="utf-8"/>
-    <title>最家</title>
+    <title>网络商城</title>
     <link rel="stylesheet" type="text/css" href="css/public.css"/>
     <link rel="stylesheet" type="text/css" href="css/mygxin.css"/>
 </head>

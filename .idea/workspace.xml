@@ -11,23 +11,22 @@
   <component name="ChangeListManager">
     <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeecms.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servlet/product/SelectProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/product/SelectProductList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/address.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/address.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/temp/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/temp/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/img/ib1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mygrxx.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mygrxx.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mygxin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mygxin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin_login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/proList.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/proList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/public.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/temp/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/temp/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/temp/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/banner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/temp/proDet02_big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/proDet02_big.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/temp/proDet03_big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/proDet03_big.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/temp/proDet04_big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/proDet04_big.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/myorderlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myorderlist.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/myprod.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myprod.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/ok.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/order.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/order.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/orderxq.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/orderxq.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/productlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/productlist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/productview.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/productview.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/searchproductlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/searchproductlist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/upload/product/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/upload/product/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/upload/product/9.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,28 +404,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/lains/Desktop/shop/web&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;d41d8cd98f00b204e9800998ecf8427e&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/lains/Desktop/shop/web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "d41d8cd98f00b204e9800998ecf8427e",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="dao.impl" />
@@ -660,7 +659,7 @@
       <workItem from="1688471548754" duration="6155000" />
       <workItem from="1688477892093" duration="1670000" />
       <workItem from="1688479610558" duration="4957000" />
-      <workItem from="1688517953978" duration="8993000" />
+      <workItem from="1688517953978" duration="15975000" />
     </task>
     <task id="LOCAL-00001" summary="HOMEECMS仓库">
       <created>1592235336310</created>
@@ -907,7 +906,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688523586801</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="version 1.0">
+      <created>1688527150899</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1688527150899</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
