@@ -9,25 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servlet/product/SelectProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/product/SelectProductList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/address.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/address.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/admin_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin_login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/proList.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/proList.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/public.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/temp/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/20.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/temp/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/banner1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/temp/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/banner2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/temp/proDet02_big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/proDet02_big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/temp/proDet03_big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/proDet03_big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/temp/proDet04_big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web/images/temp/proDet04_big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/myorderlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myorderlist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/myprod.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myprod.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/upload/product/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/upload/product/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/upload/product/9.png" beforeDir="false" />
-    </list>
+    <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -659,7 +641,7 @@
       <workItem from="1688471548754" duration="6155000" />
       <workItem from="1688477892093" duration="1670000" />
       <workItem from="1688479610558" duration="4957000" />
-      <workItem from="1688517953978" duration="15975000" />
+      <workItem from="1688517953978" duration="16511000" />
     </task>
     <task id="LOCAL-00001" summary="HOMEECMS仓库">
       <created>1592235336310</created>
@@ -913,7 +895,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688527150899</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="version 1.4">
+      <created>1688545930903</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1688545930903</updated>
+    </task>
+    <task id="LOCAL-00038" summary="version 1.4">
+      <created>1688545945577</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1688545945577</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -979,7 +975,8 @@
     </ignored-roots>
     <MESSAGE value="HOMEECMS仓库" />
     <MESSAGE value="version 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 1.0" />
+    <MESSAGE value="version 1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="das://081e25fe-a5cf-4750-bee5-184e6eccce07/schema/homeecms/table/tb_product">
