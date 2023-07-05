@@ -10,8 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/admin_login.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/admin_login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin_index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin_index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/myprod.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myprod.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -645,7 +645,7 @@
       <workItem from="1688477892093" duration="1670000" />
       <workItem from="1688479610558" duration="4957000" />
       <workItem from="1688517953978" duration="16511000" />
-      <workItem from="1688565006822" duration="1237000" />
+      <workItem from="1688565006822" duration="1647000" />
     </task>
     <task id="LOCAL-00001" summary="HOMEECMS仓库">
       <created>1592235336310</created>
@@ -941,7 +941,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688566076182</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="version 1.4">
+      <created>1688566266830</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1688566266830</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

@@ -7,7 +7,7 @@
     <!--/sidebar-->
     <div class="main-wrap">
         <div class="crumb-wrap">
-            <div class="crumb-list"><i class="icon-font">&#xe06b;</i><span>这是一条未实现的公告哦。</span></div>
+            <div class="crumb-list"><i class="icon-font">&#xe06b;</i><span>公告栏</span></div>
         </div>
         <div class="result-wrap">
             <div class="result-title">

@@ -86,31 +86,11 @@
                             <dd><a href="#2">评价</a></dd>
                         </dl>
                     </c:forEach>
-
-                </div>
-                <div class="clearfix">
-                    <dl class="fl">
-                        <dt><a href="#"><img src="img/nav3.jpg"/></a></dt>
-                        <dd><a href="#">家用创意壁挂 釉下彩复古</a></dd>
-                        <dd>¥199.00</dd>
-                        <dd>16000人评价</dd>
-                        <dd><a href="#2">查看评价</a></dd>
-                    </dl>
-                </div>
-                <div class="clearfix">
-                    <dl class="fl">
-                        <dt><a href="#"><img src="img/nav3.jpg"/></a></dt>
-                        <dd><a href="#">家用创意壁挂 釉下彩复古</a></dd>
-                        <dd>¥199.00</dd>
-                        <dd>16000人评价</dd>
-                        <dd><a href="#2">暂不能评价</a></dd>
-                    </dl>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!--<dl class="fl"><dt><a href="#"><img src="img/nav3.jpg"/></a></dt><dd><a href="#">家用创意壁挂  釉下彩复古</a></dd><dd>¥199.00</dd><dd>16000人评价</dd><dd><a href="#">待评价</a></dd></dl><dl class="fl"><dt><a href="#"><img src="img/nav3.jpg"/></a></dt><dd><a href="#">家用创意壁挂  釉下彩复古</a></dd><dd>¥199.00</dd><dd>16000人评价</dd><dd><a href="#">待评价</a></dd></dl>-->
 <!--遮罩-->
 <div class="mask"></div><!--评价弹框-->
 <div class="pj">
