@@ -16,8 +16,8 @@
             </p>
                 <form action="searchProductServlet" method="post" class="fl"><input required type="text" name="key" placeholder="                                                           热门搜索：康师傅"/><input
                         type="submit" value=""/></form>
-                <div class="btn fl clearfix"><a href="mygxin.html"><img src="img/grzx.png"/></a><a href="#" class="er1"><img
-                        src="img/ewm.png"/></a><a href="cart.html"><img src="img/gwc.png"/></a>
+                <div class="btn fl clearfix"><a href="mygxin.jsp"><img src="img/grzx.png"/></a><a href="#" class="er1"><img
+                        src="img/ewm.png"/></a><a href="cart.jsp"><img src="img/gwc.png"/></a>
                     <p><a href="#"><img src="img/smewm.png"/></a></p></div>
             </div>
         </div>
@@ -41,7 +41,7 @@
 </div><!------------------------------idea------------------------------>
 <div class="address mt">
     <div class="wrapper clearfix"><a href="indexServlet" class="fl">首页</a><span>/</span><a href="toUserInfoServlet" class="on">个人中心</a><span>/</span><a
-            href="myprod.html" class="on">待评价商品</a></div>
+            href="myprod.jsp" class="on">待评价商品</a></div>
 </div><!------------------------------Bott------------------------------>
 <div class="Bott">
     <div class="wrapper clearfix">

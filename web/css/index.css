@@ -250,7 +250,6 @@ a.ad {
     line-height: normal;
 }
 
-/*.block_home_slider .flex-direction-nav a {width:25px; height:25px; margin-top:-27px; display:block; position:absolute; top:50%; background-repeat:no-repeat; background-image:url("../img/sprite_arrow_2.png.html"); text-indent:-9000px;}*/
 .block_home_slider .flex-direction-nav a.flex-prev {
     left: 6px;
     background-position: left top;

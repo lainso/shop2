@@ -18,8 +18,8 @@
             </p>
                 <form action="searchProductServlet" method="post" class="fl"><input required type="text" name="key" placeholder="热门搜索：干花"/><input
                         type="submit" value=""/></form>
-                <div class="btn fl clearfix"><a href="mygxin.html"><img src="img/grzx.png"/></a><a href="#" class="er1"><img
-                        src="img/ewm.png"/></a><a href="cart.html"><img src="img/gwc.png"/></a>
+                <div class="btn fl clearfix"><a href="mygxin.jsp"><img src="img/grzx.png"/></a><a href="#" class="er1"><img
+                        src="img/ewm.png"/></a><a href="cart.jsp"><img src="img/gwc.png"/></a>
                     <p><a href="#"><img src="img/smewm.png"/></a></p></div>
             </div>
         </div>
@@ -42,7 +42,6 @@
     </div>
 </div>
 <div class="cart mt"><!-----------------logo------------------->
-    <!--<div class="logo"><h1 class="wrapper clearfix"><a href="index.html"><img class="fl" src="images/temp/logo.png"></a><img class="top" src="images/temp/cartTop01.png"></h1></div>-->
     <!-----------------site------------------->
     <div class="site"><p class=" wrapper clearfix"><span class="fl">购物车</span><img class="top"
                                                                                       src="images/temp/cartTop01.png"><a

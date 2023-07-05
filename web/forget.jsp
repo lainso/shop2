@@ -9,7 +9,7 @@
 </head>
 <body><!----------------------------------------order------------------>
 <div class="order cart"><!-----------------logo------------------->
-    <div class="logo"><h1 class="wrapper clearfix"><a href="index.html"><img class="fl" src="images/temp/logo.png"></a>
+    <div class="logo"><h1 class="wrapper clearfix"><a href="index.jsp"><img class="fl" src="images/temp/logo.png"></a>
     </h1></div>
     <div class="forCon"><p>安全设置-找回密码</p>
         <ul>

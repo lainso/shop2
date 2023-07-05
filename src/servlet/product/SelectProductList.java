@@ -96,15 +96,15 @@ public class SelectProductList extends HttpServlet {
             if (f.getCategory_id() == 1) {
                 request.setAttribute("link", "images/temp/banner1.jpg");
             }else if (f.getCategory_id() == 2){
-                request.setAttribute("link", "images/temp/bzbig.jpg");
-            }else if (f.getCategory_id() == 3){
                 request.setAttribute("link", "images/temp/banner2.jpg");
+            }else if (f.getCategory_id() == 3){
+                request.setAttribute("link", "images/temp/banner1.jpg");
             }else if (f.getCategory_id() == 4){
-                request.setAttribute("link", "images/temp/perfume_Banner.jpg");
+                request.setAttribute("link", "images/temp/banner2.jpg");
             }else if (f.getCategory_id() == 5){
-                request.setAttribute("link", "img/idea1.jpg");
-            }else {
                 request.setAttribute("link", "img/banner1.jpg");
+            }else {
+                request.setAttribute("link", "img/banner2.jpg");
             }
 
             ProductService service = new ProductServiceImpl();

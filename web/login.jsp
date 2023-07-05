@@ -15,7 +15,7 @@
         <p><input type="text" name="userName" value="" placeholder="昵称/邮箱/手机号" required></p>
         <p><input type="password" name="passWord" value="" placeholder="密码" required></p>
         <p><input type="submit" name="" value="登  录"></p>
-        <p class="txt"><a class="" href="reg.jsp">免费注册</a><a href="forget.html">忘记密码？</a></p></form>
+        <p class="txt"><a class="" href="reg.jsp">免费注册</a><a href="forget.jsp">忘记密码？</a></p></form>
 </div>
 </body>
 </html>
