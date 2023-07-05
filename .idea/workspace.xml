@@ -11,19 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servlet/product/SelectProductList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/product/SelectProductList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/address.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/address.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/forget.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/forget.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mygrxx.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mygrxx.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/mygxin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/mygxin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/myorderlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myorderlist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/myprod.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/myprod.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/ok.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/order.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/order.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/orderxq.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/orderxq.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/admin_login.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/admin_login.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -657,7 +645,7 @@
       <workItem from="1688477892093" duration="1670000" />
       <workItem from="1688479610558" duration="4957000" />
       <workItem from="1688517953978" duration="16511000" />
-      <workItem from="1688565006822" duration="876000" />
+      <workItem from="1688565006822" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="HOMEECMS仓库">
       <created>1592235336310</created>
@@ -939,7 +927,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688565231506</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="version 1.4">
+      <created>1688565897028</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1688565897028</updated>
+    </task>
+    <task id="LOCAL-00042" summary="version 1.4">
+      <created>1688566076182</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1688566076182</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
