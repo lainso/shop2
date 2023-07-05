@@ -15,7 +15,7 @@
 <div class="banner"><a href="#"><img src="${link}"/></a></div>
 <!-----------------address------------------------------->
 <div class="address">
-    <div class="wrapper clearfix"><a href="indexServlet">首页</a><span>/</span>${fatherC.category_name}<span>/</span>${childC.category_name}</div>
+    <div class="wrapper clearfix"><a href="indexServlet">商城首页</a><span>/</span>${fatherC.category_name}<span>/</span>${childC.category_name}</div>
 </div><!-------------------current---------------------->
 <div class="current">
     <div class="wrapper clearfix"><h3 class="fl">${childC.category_name}</h3>

@@ -10,7 +10,7 @@
 
             	<c:if test="${isLogin !=1 }">
                     <p class="fl" style="padding-top: 7px;">
-            		<a href="login.jsp" id="login">登录</a><a href="reg.jsp" id="reg">注册</a>
+
             	</c:if>
             	
             	<c:if test="${isLogin ==1 }">
@@ -19,11 +19,8 @@
                     <b style="font-size: 14px">${name.user_name}</b>
             	
             	</c:if>
-<%--            	<c:if test="${isAdminLogin ==1 }">--%>
-<%--            		<a href="admin_index.jsp" id="login1">进入后台</a>--%>
-<%--            	</c:if>--%>
             </p>
-                <form action="searchProductServlet" method="post" class="fl"><input required type="text" name="key" placeholder="热门搜索：康师傅"/><input
+                <form action="searchProductServlet" method="post" class="fl"><input required type="text" name="key" placeholder="                                                           热门搜索：康师傅"/><input
                         type="submit" value=""/></form>
                 <div class="btn fl clearfix"><a href="toUserInfoServlet"><img src="img/grzx.png"/></a><a href="#" class="er1"><img
                         src="img/ewm.png"/></a>
@@ -33,7 +30,7 @@
             </div>
         </div>
         <ul class="clearfix" id="bott">
-            <li><a href="indexServlet">首页</a></li>
+            <li><a href="indexServlet">商城首页</a></li>
             
             
             <c:forEach var="f" items="${flist}">

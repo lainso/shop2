@@ -89,6 +89,7 @@ div#top {
 
 .fr {
     float: right;
+    width: 80%;
 }
 
 .mt {
@@ -128,28 +129,29 @@ div#top {
 }
 
 .head div form {
-    width: 160px;
+    width: 60%;
     height: 30px;
     line-height: 30px;
-    margin: 0 10px;
-    margin-top: 13px;
+    margin: 13px 0 0 5%;
     border-bottom: 1px solid #262626;
 }
 
 .head div form input:nth-child(1) {
+    width: 95%;
     background: none;
     text-indent: 8px;
 }
 
 .head div form input:nth-child(2) {
     float: right;
-    width: 13%;
+    width: 5%;
     padding-bottom: 10px;
     background: url("../img/ss.png") no-repeat right 5px;
     cursor: pointer;
 }
 
 .head div.btn {
+    margin-left: 21%;
     margin-top: 20px;
     position: relative;
 }
@@ -167,7 +169,7 @@ div#top {
 
 .head ul li {
     float: left;
-    padding: 0 20px;
+    padding: 25px 20px 5px 20px;
 }
 
 .head ul li > a {
@@ -278,7 +280,7 @@ div#top {
 }
 
 .ding h1 img {
-    width: 50%;
+    width: 90%;
 }
 
 /*.ding #top1{	display: none;}*/
@@ -304,8 +306,7 @@ div#top {
     width: 185px;
     height: 30px;
     line-height: 30px;
-    margin: 0 10px;
-    margin-top: 5px;
+    display: none;
     border-bottom: 1px solid #262626;
 }
 

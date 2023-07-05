@@ -15,7 +15,7 @@
 <!-----------------address------------------------------->
 <div class="address">
     <div class="wrapper clearfix">
-    		<a href="indexServlet">首页</a><span>/</span>${fatherC.category_name }<span>/</span>${childC.category_name}</a>
+    		<a href="indexServlet">商城首页</a><span>/</span>${fatherC.category_name }<span>/</span>${childC.category_name}</a>
     </div>
 </div><!-----------------------Detail------------------------------>
 <div class="detCon">

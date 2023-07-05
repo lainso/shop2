@@ -38,7 +38,7 @@
 <!------------------------------news------------------------------>
 <div class="news">
     <div class="wrapper">
-        <h2 style="text-align: center">---------- 好物上新 | 心动优选 ----------</h2><br>
+        <h1 style="text-align: center">---------- 好物上新 | 心动优选 ----------</h1><br><br>
         <div class="flower clearfix tran">
             <c:forEach var="p" items="${newProductList}">
                 <a href="toProductViewServlet?id=${p.product_id}" class="clearfix">
@@ -57,7 +57,7 @@
 </div><!------------------------------ad------------------------------><a href="#" class="ad"><img
         src="img/ib1.jpg"/></a><!------------------------------people------------------------------>
 <div class="people">
-    <div class="wrapper"><h2><img src="img/ih3.jpg"/></h2>
+    <div class="wrapper"><h1 style="text-align: center">---------- 爆火热销 | 大众选择 ----------</h1><br><br>
         <div class="pList clearfix tran">
             <c:forEach var="p" items="${newProductList2}">
                 <a href="toProductViewServlet?id=${p.product_id}" class="clearfix">
