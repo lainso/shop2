@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="admin_login_wrap">
-    <h1>家居电子商城后台管理系统</h1>
+    <h1>网络商城后台管理系统</h1>
     <div class="adming_login_border">
         <div class="admin_input">
             <form action="${pageContext.request.contextPath}/loginAdminServlet" method="post">
@@ -27,7 +27,7 @@
             </form>
         </div>
     </div>
-    <p class="admin_copyright"><a tabindex="5" href="${pageContext.request.contextPath}/indexServlet" target="_blank">家居电子商城首页</a> &copy; 2020</p>
+    <p class="admin_copyright"><a tabindex="5" href="${pageContext.request.contextPath}/indexServlet" target="_blank">家居电子首页</a> &copy; 2020</p>
 </div>
 </body>
 </html>

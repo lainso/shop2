@@ -220,6 +220,8 @@ a.ad {
 
 .block_home_slider .slide {
     position: relative;
+    margin: 0 0 30px 10%;
+    width: 80%;
 }
 
 .block_home_slider .caption {

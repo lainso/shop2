@@ -21,7 +21,7 @@
             </div>
         </div>
         <ul class="clearfix" id="bott">
-            <li><a href="indexServlet">商城首页</a></li>
+            <li><a href="indexServlet">首页</a></li>
             <c:forEach var="f" items="${flist}">
                 <li><a href="selectProductList?fid=${f.category_id}">${f.category_name}</a>
                     <div class="sList2">

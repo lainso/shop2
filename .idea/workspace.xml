@@ -12,7 +12,9 @@
     <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/address.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/address.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/admin_login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/admin_login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/css/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/public.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/header.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
@@ -658,7 +660,7 @@
       <workItem from="1688471548754" duration="6155000" />
       <workItem from="1688477892093" duration="1670000" />
       <workItem from="1688479610558" duration="4957000" />
-      <workItem from="1688517953978" duration="3846000" />
+      <workItem from="1688517953978" duration="5605000" />
     </task>
     <task id="LOCAL-00001" summary="HOMEECMS仓库">
       <created>1592235336310</created>
@@ -884,7 +886,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688482543524</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="version 1.0">
+      <created>1688521825804</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1688521825804</updated>
+    </task>
+    <task id="LOCAL-00034" summary="version 1.0">
+      <created>1688521835554</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1688521835554</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

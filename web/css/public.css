@@ -132,7 +132,7 @@ div#top {
     width: 60%;
     height: 30px;
     line-height: 30px;
-    margin: 13px 0 0 5%;
+    margin: 13px 0 0 12%;
     border-bottom: 1px solid #262626;
 }
 
@@ -151,7 +151,7 @@ div#top {
 }
 
 .head div.btn {
-    margin-left: 21%;
+    margin-left: 15%;
     margin-top: 20px;
     position: relative;
 }

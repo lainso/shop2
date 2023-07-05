@@ -14,7 +14,7 @@
             	</c:if>
             	
             	<c:if test="${isLogin ==1 }">
-                    <p class="fl" style="padding-right: 15px;">
+                    <p class="fl" style="display: none; padding-right: 15px;">
                     <img src="${pageContext.request.contextPath}/upload/user/${name.user_photo}" style="width: 30px; border-radius: 45px;vertical-align: middle;">
                     <b style="font-size: 14px">${name.user_name}</b>
             	
@@ -30,7 +30,7 @@
             </div>
         </div>
         <ul class="clearfix" id="bott">
-            <li><a href="indexServlet">商城首页</a></li>
+            <li><a href="indexServlet">首页</a></li>
             
             
             <c:forEach var="f" items="${flist}">
