@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.4">
+    <list default="true" id="4f152455-1a4b-4b52-87b6-eb46cc568223" name="默认更改列表" comment="version 1.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -645,7 +645,8 @@
       <workItem from="1688479610558" duration="4957000" />
       <workItem from="1688517953978" duration="16511000" />
       <workItem from="1688565006822" duration="6496000" />
-      <workItem from="1688611149427" duration="3415000" />
+      <workItem from="1688611149427" duration="7783000" />
+      <workItem from="1688637079823" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="HOMEECMS仓库">
       <created>1592235336310</created>
@@ -969,7 +970,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688613365425</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="version 1.5">
+      <created>1688619157586</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1688619157586</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1036,7 +1044,8 @@
     <MESSAGE value="HOMEECMS仓库" />
     <MESSAGE value="version 1.0" />
     <MESSAGE value="version 1.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 1.4" />
+    <MESSAGE value="version 1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="das://081e25fe-a5cf-4750-bee5-184e6eccce07/schema/homeecms/table/tb_product">
