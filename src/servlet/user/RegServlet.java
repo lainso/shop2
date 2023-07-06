@@ -50,7 +50,7 @@ public class RegServlet extends HttpServlet {
                     request.setAttribute("enUserPassword", enUserPassword);
                     request.getRequestDispatcher("reg.jsp").forward(request, response);
                 } else {
-                    User u = new User(userName,"无昵称哦",userPassword,null,"0","0","1","default_0.jpg");
+                    User u = new User(userName,"无昵称",userPassword,null,"0","0","1","default_0.jpg");
                     service.addUser(u);
 
                     request.setAttribute("msg", "注册成功！");

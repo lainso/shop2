@@ -10,7 +10,8 @@
 </head>
 <body><!-------------------reg-------------------------->
 <div class="reg">
-    <form action="${pageContext.request.contextPath}/regServlet" method="post"><h1><a href="indexServlet"><img src="images/temp/logo.png"></a></h1>
+    <form action="${pageContext.request.contextPath}/regServlet" method="post">
+        <h1><a href="indexServlet"><img src="images/temp/logo.png"></a></h1>
         <p></p>
         <div class="msg-warn hide">
             <b></b>
